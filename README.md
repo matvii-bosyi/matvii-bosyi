@@ -1,20 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Matvii
 ==============================================================================================================================
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=matvii-bosyi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=matvii-bosyi&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matvii-bosyi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=matvii-bosyi&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=matvii-bosyi&icon=0&color=12)](https://visitcount.itsvg.in)
-
-**```Remember: ThinkDifferent```**
-
-WebDevelopment
+А little about me
 --------------
 
 * 🌍  I'm based in Ukraine
@@ -38,3 +27,5 @@ src="https://img.shields.io/github/followers/matvii-bosyi?logo=github&style=for-
 ### Badges
 
 <a href="https://github.com/matvii-bosyi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matvii-bosyi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+**```Remember: ThinkDifferent```**
