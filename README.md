@@ -49,12 +49,6 @@
   <br>
   <h1 align="center"><b>Remember: <i>ThinkDifferent</i></b></h1>
 </div>
-```
 
- ▄ .▄▄▄▄▄▄• ▌ ▄ ·. ▄▄▌       ▄▄· .▄▄ · .▄▄ ·      ▐▄▄▄.▄▄ · 
-██▪▐█•██  ·██ ▐███▪██•      ▐█ ▌▪▐█ ▀. ▐█ ▀.       ·██▐█ ▀. 
-██▀▐█ ▐█.▪▐█ ▌▐▌▐█·██▪      ██ ▄▄▄▀▀▀█▄▄▀▀▀█▄    ▪▄ ██▄▀▀▀█▄
-██▌▐▀ ▐█▌·██ ██▌▐█▌▐█▌▐▌    ▐███▌▐█▄▪▐█▐█▄▪▐█    ▐▌▐█▌▐█▄▪▐█
-▀▀▀ · ▀▀▀ ▀▀  █▪▀▀▀.▀▀▀     ·▀▀▀  ▀▀▀▀  ▀▀▀▀      ▀▀▀• ▀▀▀▀ 
+![alt text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXQ0dGpzMHpic3duOW01ZDZhMTN5NDdtN2Z3dzVzOTkxbzJudGUxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJPZBIIqzbt1kAYVc/giphy.gif)
 
-```
