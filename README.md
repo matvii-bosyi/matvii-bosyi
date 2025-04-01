@@ -13,7 +13,6 @@
 * ✉️  You can contact me at [bosyimatvii@gmail.com](mailto:bosyimatvii@gmail.com)
 * 🧠  I'm learning Front-end
 
----
 
 ## 💻 Tech Stack:
 
@@ -35,7 +34,6 @@
   </tr>
 </table>
 
----
 
 <div align="center">
   <a  href="https://www.github.com/matvii-bosyi" target="_blank" rel="noreferrer"><img
