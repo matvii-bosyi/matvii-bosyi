@@ -1,19 +1,11 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Matvii
-```
-     ██╗███████╗
-     ██║██╔════╝
-     ██║███████╗
-██   ██║╚════██║
-╚█████╔╝███████║
- ╚════╝ ╚══════╝
-```
+
 ## 🙋‍♂️ А little about me:
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [bosyimatvii@gmail.com](mailto:bosyimatvii@gmail.com)
 * 🧠  I'm learning Front-end
-
-
+⠀
 ## 💻 Tech Stack:
 
 <table align="center">
@@ -33,8 +25,7 @@
     
   </tr>
 </table>
-
-
+⠀
 <div align="center">
   <a  href="https://www.github.com/matvii-bosyi" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/github/followers/matvii-bosyi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
