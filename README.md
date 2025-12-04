@@ -1,8 +1,13 @@
-# Hi, I'm Matvii
+# Hi, I'm Matvii 👋
 
-Web Developer from Ukraine
+**Web Developer from Ukraine**
 
-I work with front-end: React, TypeScript, Tailwind  
-I like clean UI, minimalism, and building useful things.
+### Front-end
+React · Next.js · TypeScript · Tailwind
 
-Tech I use: JS · TS · React · Next.js · Tailwind · Git · Linux
+### Back-end
+Nest.js
+
+I enjoy clean UI, minimalism, and building fast, useful products.
+
+**Tech:** JS · TS · React · Next.js · Tailwind · Nest.js · Git · Linux
