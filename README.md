@@ -14,10 +14,6 @@
   Front-end is where I feel strongest. Back-end is where I keep pushing deeper.
 </p>
 
-## Core stack
-
-React · Next.js · TypeScript · JavaScript · NestJS · Node.js · PostgreSQL · Tailwind CSS
-
 ## Stack
 
 <p align="center">
@@ -29,7 +25,6 @@ React · Next.js · TypeScript · JavaScript · NestJS · Node.js · PostgreSQL 
   <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
   <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/Prisma-0f172a?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bun-0f172a?style=for-the-badge&logo=bun&logoColor=FBF0DF" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
 </p>
