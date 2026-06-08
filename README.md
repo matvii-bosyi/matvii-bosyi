@@ -2,11 +2,17 @@
   <img src="./image.png" alt="Matvii profile banner" />
 </p>
 
-I build clean, minimal, and thoughtful web applications.
+<p align="center">
+  <strong>Full-Stack Developer</strong>
+</p>
 
-My main focus is modern product development with a strong front-end eye and a growing back-end foundation.
+<p align="center">
+  I build clean, minimal, and thoughtful web experiences with a strong focus on clarity, motion, and feel.
+</p>
 
-I enjoy shaping interfaces that feel simple, fast, and comfortable to use.
+<p align="center">
+  Front-end is where I feel strongest. Back-end is where I keep pushing deeper.
+</p>
 
 ## Core stack
 
@@ -18,4 +24,4 @@ Git · Linux (Arch) · Vim · AI · Markdown
 
 ## Contact
 
-bosyimatvii@gmail.com
+<a href="mailto:bosyimatvii@gmail.com">bosyimatvii@gmail.com</a>
