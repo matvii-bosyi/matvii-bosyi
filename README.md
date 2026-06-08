@@ -38,7 +38,7 @@ React · Next.js · TypeScript · JavaScript · NestJS · Node.js · PostgreSQL 
   <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Vim-0f172a?style=for-the-badge&logo=vim&logoColor=019733" />
   <img src="https://img.shields.io/badge/Markdown-0f172a?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-0f172a?style=for-the-badge&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Claude-0f172a?style=for-the-badge&logo=claude&logoColor=D97757" />
 </p>
 
 ## Contact
