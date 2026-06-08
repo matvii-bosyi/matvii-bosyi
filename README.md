@@ -28,6 +28,9 @@ React · Next.js · TypeScript · JavaScript · NestJS · Node.js · PostgreSQL 
   <img src="https://img.shields.io/badge/NestJS-0f172a?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
   <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
   <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Prisma-0f172a?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bun-0f172a?style=for-the-badge&logo=bun&logoColor=FBF0DF" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
 </p>
 
@@ -37,6 +40,10 @@ React · Next.js · TypeScript · JavaScript · NestJS · Node.js · PostgreSQL 
   <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Vim-0f172a?style=for-the-badge&logo=vim&logoColor=019733" />
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Zed-0f172a?style=for-the-badge&logo=zedindustries&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bruno-0f172a?style=for-the-badge&logo=bruno&logoColor=F4AA41" />
   <img src="https://img.shields.io/badge/Markdown-0f172a?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-0f172a?style=for-the-badge&logo=claude&logoColor=D97757" />
 </p>
