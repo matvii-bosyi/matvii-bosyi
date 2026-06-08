@@ -2,7 +2,7 @@
   <img src="./image.png" alt="Matvii profile banner" />
 </p>
 
-# Hi, I'm Matvii
+#
 
 Full-Stack Developer focused on building clean, minimal, and user-friendly web applications.
 
