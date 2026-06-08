@@ -2,11 +2,11 @@
   <img src="./image.png" alt="Matvii profile banner" />
 </p>
 
-#
+I build clean, minimal, and thoughtful web applications.
 
-Full-Stack Developer focused on building clean, minimal, and user-friendly web applications.
+My main focus is modern product development with a strong front-end eye and a growing back-end foundation.
 
-I work mainly with modern JavaScript and TypeScript tools, with a strong front-end foundation and a growing back-end focus.
+I enjoy shaping interfaces that feel simple, fast, and comfortable to use.
 
 ## Core stack
 
@@ -15,10 +15,6 @@ React · Next.js · TypeScript · JavaScript · NestJS · Node.js · PostgreSQL 
 ## Tools and interests
 
 Git · Linux (Arch) · Vim · AI · Markdown
-
-## What I do
-
-I enjoy creating web products that feel simple, fast, and thoughtful.
 
 ## Contact
 
