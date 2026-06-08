@@ -1,13 +1,21 @@
-# Hi, I'm Matvii 👋
+# Hi, I'm Matvii
 
-**Web Developer from Ukraine**
+Full-Stack Developer focused on building clean, minimal, and user-friendly web applications.
 
-### Front-end
-React · Next.js · TypeScript · Tailwind
+I work mainly with modern JavaScript and TypeScript tools, with a strong front-end foundation and a growing back-end focus.
 
-### Back-end
-Nest.js
+## Core stack
 
-I enjoy clean UI, minimalism, and building fast, useful products.
+React · Next.js · TypeScript · JavaScript · NestJS · Node.js · PostgreSQL · Tailwind CSS
 
-**Tech:** JS · TS · React · Next.js · Tailwind · Nest.js · Git · Linux
+## Tools and interests
+
+Git · Linux (Arch) · Vim · AI · Markdown
+
+## What I do
+
+I enjoy creating web products that feel simple, fast, and thoughtful.
+
+## Contact
+
+bosyimatvii@gmail.com
