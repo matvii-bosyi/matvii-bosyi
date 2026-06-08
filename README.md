@@ -29,13 +29,17 @@ React · Next.js · TypeScript · JavaScript · NestJS · Node.js · PostgreSQL 
   <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
   <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
 
-## Tools and interests
+## Tools
 
-Git · Linux (Arch) · Vim · AI · Markdown
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Vim-0f172a?style=for-the-badge&logo=vim&logoColor=019733" />
+  <img src="https://img.shields.io/badge/Markdown-0f172a?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-0f172a?style=for-the-badge&logoColor=D97757" />
+</p>
 
 ## Contact
 
